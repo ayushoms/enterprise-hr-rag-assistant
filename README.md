@@ -1,1 +1,1 @@
-# rag_concept
+# Enterprise HR RAG Assistant
