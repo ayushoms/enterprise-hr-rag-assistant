@@ -11,6 +11,9 @@ __pycache__/
 *.pyc
 *.pyo
 
+# Chroma local vector database
+chroma_db_notebook/
+
 # Jupyter
 .ipynb_checkpoints/
 
